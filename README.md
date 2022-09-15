@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jessi2007
 - 👀 I’m interested in aprender
-- 🌱 I’m currently learning a programação 
-- 💞️ I’m looking to collaborate on meu aprendizado
+- 🌱 I’m currently learning programação 
+- 💞️ I’m looking to collaborate on aprendizado 
 - 📫 How to reach me jessica.e.silva@escola.pr.gov.br
 
 <!---
